@@ -61,7 +61,7 @@ Caching Layer
 
 
 ## 🏗 System Architecture
-<p align="center"> <img src="public/imgs/Architecture.png" alt="EduManager Architecture" width="800" /> </p>
+<p align="center"> <img src="https://github.com/KarthickRamAlagar/StudentManger/blob/main/src/Screenshot%202026-06-16%20013257.png" alt="EduManager Architecture" width="800" /> </p>
 
 
 ## 📦 Modules
