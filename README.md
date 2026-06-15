@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="public/imgs/EduManagerBanner.png" alt="EduManager Banner" width="100%">
+  <img src="https://github.com/KarthickRamAlagar/StudentManger/blob/main/src/Screenshot%202026-06-16%20015535.png" alt="EduManager Banner" width="100%" height="50%">
 </p>
 
 <p align="center">
