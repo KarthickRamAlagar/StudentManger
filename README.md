@@ -157,7 +157,7 @@ http://localhost:8000/api-docs
 ## 🚀 Installation
 ```bash
 Clone Repository
-git clone https://github.com/your-username/EduManager-Backend-System
+git clone https://github.com/KarthickRamAlagar/StudentManger.git
 Install Dependencies
 npm install
 ```
