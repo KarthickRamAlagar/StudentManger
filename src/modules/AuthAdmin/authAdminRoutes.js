@@ -27,5 +27,4 @@ router.patch("/users/:id/role",authMiddleware,roleMiddleware("admin"), updateUse
 // UPDATE STATUS
 router.patch("/users/:id/status", authMiddleware,roleMiddleware("admin"),updateUserStatus);
 
-// console.log(" AUTH ADMIN ROUTES LOADED");
 export default router;

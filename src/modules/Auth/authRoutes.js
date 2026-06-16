@@ -21,7 +21,7 @@ import {
 
 const router = express.Router();
 
-console.log("🔥 AUTH ROUTES FILE EXECUTED");
+
 
 // PUBLIC ROUTES
 // Signup
@@ -46,5 +46,5 @@ router.post("/logout", authMiddleware, logout);
 // Get Profile
 router.get("/me", authMiddleware, getProfile);
 
-// console.log("✅ AUTH ROUTES LOADED");
+
 export default router;
